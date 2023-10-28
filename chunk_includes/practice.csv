@@ -1,0 +1,4 @@
+﻿list,item,condition,type,prime_sentence,target_sentence,question,correct
+1,201,test,garden,The boy finished that homework last week.,The divorce lawyer argued the issue was irrelevant to the case.,Did the divorce lawyer argue the issue?,0
+1,202,test,rrc,The motorist injured at the crossroad had to go to the hospital.,The child injured in the house called his parents very loudly.,Was the child injured?,0
+1,203,test,srcorc,The student that the counselor met in the hospital berfore her exam fogot to visit her grandmother.,The monk that encouraged the traveler in the temple found a small cat under the floor.,Did traveler encouraged the monk?,1

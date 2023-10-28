@@ -1,0 +1,11 @@
+﻿list,item,condition,type,sentence,question,correct
+1,111,filler,filler,"The little girl read the old woman a short story, and then the boy did.",Did the boy read a short story to the old woman?,0
+1,112,filler,filler,"Ms. Andrews sent the principal a troublemaker, and then Mr. Lewis sent him one.",Did Mr. Lewis send a troublemaker to the principal?,0
+1,113,filler,filler,A rock star sold an undercover agent some cocaine.,Did a rock star sell some cocaine to an undercover agent?,0
+1,114,filler,filler,"The tenant was supposed to have reported the robbery, but it hasn't been yet.",Has the tenant reported the robbery?,1
+1,115,filler,filler,"The roller coaster is supposed to be tested, but nobody has yet.",Has the roller coaster been tested?,1
+1,116,filler,filler,"Someone was supposed to have appraised the diamond, but nobody has yet.",Has the diamond been appraised?,1
+1,117,filler,filler,"The document is supposed to be shredded, but it hasn't been yet.",Has the document been shredded?,1
+1,118,filler,filler,"Someone is supposed to perform the music, but it hasn't been yet.",Has the music been perfomed?,1
+1,119,filler,filler,"The lifeguard tossed a rope to the swimmer, and then the instructor did.",Did the instructor toss the swimmer a rope?,0
+1,120,filler,filler,"The foundation gave the university five million dollars, then the government gave them five million.",Did the foundation give five million dollars to the university?,0

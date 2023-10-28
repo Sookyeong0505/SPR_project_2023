@@ -1,0 +1,97 @@
+﻿list,item,condition,type,sentence,question,correct
+1,1,locative,src,The student that threatened the teacher in the classroom skipped the reading for the week.,Did the student threaten the teacher?,1
+2,1,locative,orc,The student that the teacher threatened in the classroom skipped the reading for the week.,Did the student threaten the teacher?,0
+3,1,temporal,src,The student that threatened the teacher after the class skipped the reading for the week.,Did the student threaten the teacher?,1
+4,1,temporal,orc,The student that the teacher threatened after the class skipped the reading for the week.,Did the student threaten the teacher?,0
+2,2,locative,src,The employee that spotted the fireman in the building hurried across the open field.,Did the employee spot the fireman?,1
+3,2,locative,orc,The employee that the fireman spotted in the building hurried across the open field.,Did the employee spot the fireman?,0
+4,2,temporal,src,The employee that spotted the fireman before the game hurried across the open field.,Did the employee spot the fireman?,1
+1,2,temporal,orc,The employee that the fireman spotted before the game hurried across the open field.,Did the employee spot the fireman?,0
+3,3,locative,src,The judge that addressed the witnesses on the stand noticed the defense attorneys.,Did the judge address the witnesses?,1
+4,3,locative,orc,The judge that the witnesses addressed on the stand noticed the defense attorneys.,Did the judge address the witnesses?,0
+1,3,temporal,src,The judge that addressed the witnesses for two minutes noticed the defense attorneys.,Did the judge address the witnesses?,1
+2,3,temporal,orc,The judge that the witnesses addressed for two minutes noticed the defense attorneys.,Did the judge address the witnesses?,0
+4,4,locative,src,The sponsor that invited the activist at the festival proposed an annual prize.,Did the sponsor invite the activist?,1
+1,4,locative,orc,The sponsor that the activist invited at the festival proposed an annual prize.,Did the sponsor invite the activist?,0
+2,4,temporal,src,The sponsor that invited the activist during the festival proposed an annual prize.,Did the sponsor invite the activist?,1
+3,4,temporal,orc,The sponsor that the activist invited during the festival proposed an annual prize.,Did the sponsor invite the activist?,0
+1,5,locative,src,The pilot that delayed the crew at the airport remained on the runway for a long time.,Did the pilot delay the crew?,1
+2,5,locative,orc,The pilot that the crew delayed at the airport remained on the runway for a long time.,Did the pilot delay the crew?,0
+3,5,temporal,src,The pilot that delayed the crew for six hours remained on the runway for a long time.,Did the pilot delay the crew?,1
+4,5,temporal,orc,The pilot that the crew delayed for six hours remained on the runway for a long time.,Did the pilot delay the crew?,0
+2,6,locative,src,The speaker that entertained the economists at the conference predicted economic growth.,Did the speaker entertain the economists?,1
+3,6,locative,orc,The speaker that the economists entertained at the conference predicted economic growth.,Did the speaker entertain the economists?,0
+4,6,temporal,src,The speaker that entertained the economists during the seminar predicted economic growth.,Did the speaker entertain the economists?,1
+1,6,temporal,orc,The speaker that the economists entertained during the seminar predicted economic growth.,Did the speaker entertain the economists?,0
+3,7,locative,src,The visitor that introduced the principal at the seminar walked across the courtyard.,Did the visitor introduce the principal?,1
+4,7,locative,orc,The visitor that the principal introduced at the seminar walked across the courtyard.,Did the visitor introduce the principal?,0
+1,7,temporal,src,The visitor that introduced the principal before the seminar walked across the courtyard.,Did the visitor introduce the principal?,1
+2,7,temporal,orc,The visitor that the principal introduced before the seminar walked across the courtyard.,Did the visitor introduce the principal?,0
+4,8,locative,src,The assistant that helped the reporter in the office held evidence of bribery.,Did the assistant help the reporter?,1
+1,8,locative,orc,The assistant that the reporter helped in the office held evidence of bribery.,Did the assistant help the reporter?,0
+2,8,temporal,src,The assistant that helped the reporter in the summer held evidence of bribery.,Did the assistant help the reporter?,1
+3,8,temporal,orc,The assistant that the reporter helped in the summer held evidence of bribery.,Did the assistant help the reporter?,0
+1,9,locative,src,The guide that stopped the child on the sidewalk asked her if she needed help.,Did the guide stop the child?,1
+2,9,locative,orc,The guide that the child stopped on the sidewalk asked her if she needed help.,Did the guide stop the child?,0
+3,9,temporal,src,The guide that stopped the child for a moment asked her if she needed help.,Did the guide stop the child?,1
+4,9,temporal,orc,The guide that the child stopped for a moment asked her if she needed help.,Did the guide stop the child?,0
+2,10,locative,src,The celebrity that harassed the waiter on the patio called security following the incident.,Did the celebrity harass the waiter?,1
+3,10,locative,orc,The celebrity that the waiter harassed on the patio called security following the incident.,Did the celebrity harass the waiter?,0
+4,10,temporal,src,The celebrity that harassed the waiter during break time called security following the incident.,Did the celebrity harass the waiter?,1
+1,10,temporal,orc,The celebrity that the waiter harassed during break time called security following the incident.,Did the celebrity harass the waiter?,0
+3,11,locative,src,The driver that followed the kid from the school wondered about the location of a hotel.,Did the driver followed the kid?,1
+4,11,locative,orc,The driver that the kid followed from the school wondered about the location of a hotel.,Did the driver followed the kid?,0
+1,11,temporal,src,The driver that followed the kid during the day wondered about the location of a hotel.,Did the driver followed the kid?,1
+2,11,temporal,orc,The driver that the kid followed during the day wondered about the location of a hotel.,Did the driver followed the kid?,0
+4,12,locative,src,The editor that hit the scientist in the classroom forgot to send a mail to the boss.,Did the editor hit the scientist?,1
+1,12,locative,orc,The editor that the scientist hit in the classroom forgot to send a mail to the boss.,Did the editor hit the scientist?,0
+2,12,temporal,src,The editor that hit the scientist before the seminar forgot to send a mail to the boss.,Did the editor hit the scientist?,1
+3,12,temporal,orc,The editor that the scientist hit before the seminar forgot to send a mail to the boss.,Did the editor hit the scientist?,0
+1,13,locative,src,The writer that admired the president on the stage spoke about peace and liberty.,Did the president admire the writer?,0
+2,13,locative,orc,The writer that the president admired on the stage spoke about peace and liberty.,Did the president admire the writer?,1
+3,13,temporal,src,The writer that admired the president for ten years spoke about peace and liberty.,Did the president admire the writer?,0
+4,13,temporal,orc,The writer that the president admired for ten years spoke about peace and liberty.,Did the president admire the writer?,1
+2,14,locative,src,The florist that watched the salesman in the kitchen met a child with red hat.,Did the salesman watch the florist?,0
+3,14,locative,orc,The florist that the salesman watched in the kitchen met a child with red hat.,Did the salesman watch the florist?,1
+4,14,temporal,src,The florist that watched the salesman during their date met a child with red hat.,Did the salesman watch the florist?,0
+1,14,temporal,orc,The florist that the salesman watched during their date met a child with red hat.,Did the salesman watch the florist?,1
+3,15,locative,src,The guard that signaled the resident from the street sprayed the house with hoses.,Did the resident signal the guard?,0
+4,15,locative,orc,The guard that the resident signaled from the street sprayed the house with hoses.,Did the resident signal the guard?,1
+1,15,temporal,src,The guard that signaled the resident after the fire sprayed the house with hoses.,Did the resident signal the guard?,0
+2,15,temporal,orc,The guard that the resident signaled after the fire sprayed the house with hoses.,Did the resident signal the guard?,1
+4,16,locative,src,The detective that phoned the agent from New Jersey suspected the reviewer.,Did the agent phone the detective?,0
+1,16,locative,orc,The detective that the agent phoned from New Jersey suspected the reviewer.,Did the agent phone the detective?,1
+2,16,temporal,src,The detective that phoned the agent during the case suspected the reviewer.,Did the agent phone the detective?,0
+3,16,temporal,orc,The detective that the agent phoned during the case suspected the reviewer.,Did the agent phone the detective?,1
+1,17,locative,src,The manager that visited the supervisor in the shop remembered some inconvenient facts.,Did the supervisor visit the manager?,0
+2,17,locative,orc,The manager that the supervisor visited in the shop remembered some inconvenient facts.,Did the supervisor visit the manager?,1
+3,17,temporal,src,The manager that visited the supervisor after an hour remembered some inconvenient facts.,Did the supervisor visit the manager?,0
+4,17,temporal,orc,The manager that the supervisor visited after an hour remembered some inconvenient facts.,Did the supervisor visit the manager?,1
+2,18,locative,src,The columnist that sued the lawyer in the corporation filed a grievance with the judge.,Did the lawyer sue the columnist?,0
+3,18,locative,orc,The columnist that the lawyer sued in the corporation filed a grievance with the judge.,Did the lawyer sue the columnist?,1
+4,18,temporal,src,The columnist that sued the lawyer after the negotiation filed a grievance with the judge.,Did the lawyer sue the columnist?,0
+1,18,temporal,orc,The columnist that the lawyer sued after the negotiation filed a grievance with the judge.,Did the lawyer sue the columnist?,1
+3,19,locative,src,The bartender that rescued the drunk at the station ate some nachos for dinner.,Did the drunk rescue the bartender?,0
+4,19,locative,orc,The bartender that the drunk rescued at the station ate some nachos for dinner.,Did the drunk rescue the bartender?,1
+1,19,temporal,src,The bartender that rescued the drunk after the party ate some nachos for dinner.,Did the drunk rescue the bartender?,0
+2,19,temporal,orc,The bartender that the drunk rescued after the party ate some nachos for dinner.,Did the drunk rescue the bartender?,1
+4,20,locative,src,The nurse that observed the patient in the center thought about the cause of a headache.,Did the patient observe the nurse?,0
+1,20,locative,orc,The nurse that the patient observed in the center thought about the cause of a headache.,Did the patient observe the nurse?,1
+2,20,temporal,src,The nurse that observed the patient after the surgery thought about the cause of a headache.,Did the patient observe the nurse?,0
+3,20,temporal,orc,The nurse that the patient observed after the surgery thought about the cause of a headache.,Did the patient observe the nurse?,1
+1,21,locative,src,The professor that ignored the student in the classroom continued with his lecture.,Did the student ignore the professor?,0
+2,21,locative,orc,The professor that the student ignored in the classroom continued with his lecture.,Did the student ignore the professor?,1
+3,21,temporal,src,The professor that ignored the student during break time continued with his lecture.,Did the student ignore the professor?,0
+4,21,temporal,orc,The professor that the student ignored during break time continued with his lecture.,Did the student ignore the professor?,1
+2,22,locative,src,The woman that irritated the children at the auditorium yelled at her husband a lot.,Did the children irritate the woman?,0
+3,22,locative,orc,The woman that the children irritated at the auditorium yelled at her husband a lot.,Did the children irritate the woman?,1
+4,22,temporal,src,The woman that irritated the children during the show yelled at her husband a lot.,Did the children irritate the woman?,0
+1,22,temporal,orc,The woman that the children irritated during the show yelled at her husband a lot.,Did the children irritate the woman?,1
+3,23,locative,src,The critic that blamed the artist at the gallery left the place immediately.,Did the artist blame the critic?,0
+4,23,locative,orc,The critic that the artist blamed at the gallery left the place immediately.,Did the artist blame the critic?,1
+1,23,temporal,src,The critic that blamed the artist during the debate left the place immediately.,Did the artist blame the critic?,0
+2,23,temporal,orc,The critic that the artist blamed during the debate left the place immediately.,Did the artist blame the critic?,1
+4,24,locative,src,The singer that mentioned the chairman on the stage loved singing old jazz.,Did the chairman mention the singer?,0
+1,24,locative,orc,The singer that the chairman mentioned on the stage loved singing old jazz.,Did the chairman mention the singer?,1
+2,24,temporal,src,The singer that mentioned the chairman after the show loved singing old jazz.,Did the chairman mention the singer?,0
+3,24,temporal,orc,The singer that the chairman mentioned after the show loved singing old jazz.,Did the chairman mention the singer?,1

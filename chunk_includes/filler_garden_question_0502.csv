@@ -1,0 +1,33 @@
+﻿list,item,condition,type,prime_sentence,target_sentence,question,correct
+1,17,dt-that,garden,The psychic predicted that set of winning numbers in the state lottery.,The store guaranteed the television would last for ten years without failing.,Did the store guarantee the television?,1
+2,17,dt-nothat,garden,The psychic predicted the set of winning numbers in the state lottery.,The store guaranteed the television would last for ten years without failing.,Did the store guarantee the television?,1
+3,17,sc-that,garden,The psychic predicted that the desperate woman would win the state lottery.,The store guaranteed the television would last for ten years without failing.,Did the store guarantee the television?,1
+4,17,sc-nothat,garden,The psychic predicted the desperate woman would win the state lottery.,The store guaranteed the television would last for ten years without failing.,Did the store guarantee the television?,1
+2,18,dt-that,garden,The dog sensed that danger before he started growling.,The tourists saw the palace was being restored to its original condition.,Was the palace being restored to its original condition?,0
+3,18,dt-nothat,garden,The dog sensed the danger before he started growling.,The tourists saw the palace was being restored to its original condition.,Was the palace being restored to its original condition?,0
+4,18,sc-that,garden,The dog sensed that his owner might be in danger.,The tourists saw the palace was being restored to its original condition.,Was the palace being restored to its original condition?,0
+1,18,sc-nothat,garden,The dog sensed his owner might be in danger.,The tourists saw the palace was being restored to its original condition.,Was the palace being restored to its original condition?,0
+3,19,dt-that,garden,The power company acknowledged that big problem after the sabotage.,The umpire warned the spectators would probably get too rowdy if beer was served.,Did the umpire warn the spectators?,1
+4,19,dt-nothat,garden,The power company acknowledged the big problem after the sabotage.,The umpire warned the spectators would probably get too rowdy if beer was served.,Did the umpire warn the spectators?,1
+1,19,sc-that,garden,The power company acknowledged that the power outage was caused by sabotage.,The umpire warned the spectators would probably get too rowdy if beer was served.,Did the umpire warn the spectators?,1
+2,19,sc-nothat,garden,The power company acknowledged the power outage was caused by sabotage.,The umpire warned the spectators would probably get too rowdy if beer was served.,Did the umpire warn the spectators?,1
+4,20,dt-that,garden,The broker advised that investor before realizing he was a crook.,The worker maintained the walls fell down in a heap before he arrived.,Did the walls fall down in a heap before he arrived?,0
+1,20,dt-nothat,garden,The broker advised the investor before realizing he was a crook.,The worker maintained the walls fell down in a heap before he arrived.,Did the walls fall down in a heap before he arrived?,0
+2,20,sc-that,garden,The broker advised that low risk investors sell their stock.,The worker maintained the walls fell down in a heap before he arrived.,Did the walls fall down in a heap before he arrived?,0
+3,20,sc-nothat,garden,The broker advised low risk investors sell their stock.,The worker maintained the walls fell down in a heap before he arrived.,Did the walls fall down in a heap before he arrived?,0
+1,21,dt-that,garden,The secretary recalled that annoying client from his previous visit.,The diplomats understood the treaty would be altered at the conference.,Would the treaty be altered at the conference?,0
+2,21,dt-nothat,garden,The secretary recalled the annoying client from his previous visit.,The diplomats understood the treaty would be altered at the conference.,Would the treaty be altered at the conference?,0
+3,21,sc-that,garden,The secretary recalled that the annoying client had been there before.,The diplomats understood the treaty would be altered at the conference.,Would the treaty be altered at the conference?,0
+4,21,sc-nothat,garden,The secretary recalled the annoying client had been there before.,The diplomats understood the treaty would be altered at the conference.,Would the treaty be altered at the conference?,0
+2,22,dt-that,garden,The catcher protested that call until he was thrown out of the game.,The woman accepted the trophy had to be returned to the committee.,Did the woman accept the trophy?,1
+3,22,dt-nothat,garden,The catcher protested the call until he was thrown out of the game.,The woman accepted the trophy had to be returned to the committee.,Did the woman accept the trophy?,1
+4,22,sc-that,garden,The catcher protested that the base runner should have been called out.,The woman accepted the trophy had to be returned to the committee.,Did the woman accept the trophy?,1
+1,22,sc-nothat,garden,The catcher protested the base runner should have been called out.,The woman accepted the trophy had to be returned to the committee.,Did the woman accept the trophy?,1
+3,23,dt-that,garden,The X-ray proved that doctor's theory beyond a reasonable doubt.,The policemen remembered the peace camp had been filmed by the BBC.,Had the peace camp been filmed by the BBC?,0
+4,23,dt-nothat,garden,The X-ray proved the doctor's theory beyond a reasonable doubt.,The policemen remembered the peace camp had been filmed by the BBC.,Had the peace camp been filmed by the BBC?,0
+1,23,sc-that,garden,The X-ray proved that the hurt child had broken a bone.,The policemen remembered the peace camp had been filmed by the BBC.,Had the peace camp been filmed by the BBC?,0
+2,23,sc-nothat,garden,The X-ray proved the hurt child had broken a bone.,The policemen remembered the peace camp had been filmed by the BBC.,Had the peace camp been filmed by the BBC?,0
+4,24,dt-that,garden,The taxi driver anticipated that robbery attempt before it happened.,The fashion writer read the famous magazine was having trouble with its finances.,Did the fashion writer read the famous magazine?,1
+1,24,dt-nothat,garden,The taxi driver anticipated the robbery attempt before it happened.,The fashion writer read the famous magazine was having trouble with its finances.,Did the fashion writer read the famous magazine?,1
+2,24,sc-that,garden,The taxi driver anticipated that the tourist would turn left.,The fashion writer read the famous magazine was having trouble with its finances.,Did the fashion writer read the famous magazine?,1
+3,24,sc-nothat,garden,The taxi driver anticipated the tourist would turn left.,The fashion writer read the famous magazine was having trouble with its finances.,Did the fashion writer read the famous magazine?,1

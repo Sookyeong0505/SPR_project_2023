@@ -1,0 +1,11 @@
+﻿list,item,condition,type,sentence,question,correct
+1,121,filler,filler,"Ralph sang a song to Sheila, and then Marcus did.",Did Marcus sing a song to Shelia?,0
+1,122,filler,filler,The Mellon foundation awarded a grant to the professor.,Did the Mellonfoundation award a grant to the professor?,0
+1,123,filler,filler,"The victim told the story to the reporter, and then the lawyer cried.",Did the lawyer hear the story of the vitim?,0
+1,124,filler,filler,"The head coach handed the athlete a cup, and then the assistant coach did.",Did the assistant coach hand a cup to the athlete?,0
+1,125,filler,filler,"The college issued the residents an ID card, and then the state issued them one.",Did the state issue an ID card to the residents?,0
+1,126,filler,filler,"Someone is supposed to photograph the planet, but nobody has yet.",Has the planet been photographed?,1
+1,127,filler,filler,"The event was supposed to have been documented, but it hasn't been yet.",Has the event been documented?,1
+1,128,filler,filler,"The representatives were supposed to have introduced the policy, but it hasn't been yet.",Have the representatives introduced the policy?,1
+1,129,filler,filler,"The program is supposed to be fixed immediately, but nobody has yet.",Has the program been fixed?,1
+1,130,filler,filler,"Someone was supposed to have removed the tumor completely, but it hasn't been yet.",Has the tumer been removed?,1

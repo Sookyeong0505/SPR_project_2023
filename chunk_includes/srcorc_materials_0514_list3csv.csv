@@ -1,0 +1,25 @@
+﻿list,item,condition,type,sentence,question,correct
+3,1,temporal,src,The student that threatened the teacher after the class skipped the reading for the week.,Did the student threaten the teacher?,1
+3,2,locative,orc,The employee that the fireman spotted in the building hurried across the open field.,Did the employee spot the fireman?,0
+3,3,locative,src,The judge that addressed the witnesses on the stand noticed the defense attorneys.,Did the judge address the witnesses?,1
+3,4,temporal,orc,The sponsor that the activist invited during the festival proposed an annual prize.,Did the sponsor invite the activist?,0
+3,5,temporal,src,The pilot that delayed the crew for six hours remained on the runway for a long time.,Did the pilot delay the crew?,1
+3,6,locative,orc,The speaker that the economists entertained at the conference predicted economic growth.,Did the speaker entertain the economists?,0
+3,7,locative,src,The visitor that introduced the principal at the seminar walked across the courtyard.,Did the visitor introduce the principal?,1
+3,8,temporal,orc,The assistant that the reporter helped in the summer held evidence of bribery.,Did the assistant help the reporter?,0
+3,9,temporal,src,The guide that stopped the child for a moment asked her if she needed help.,Did the guide stop the child?,1
+3,10,locative,orc,The celebrity that the waiter harassed on the patio called security following the incident.,Did the celebrity harass the waiter?,0
+3,11,locative,src,The driver that followed the kid from the school wondered about the location of a hotel.,Did the driver followed the kid?,1
+3,12,temporal,orc,The editor that the scientist hit before the seminar forgot to send a mail to the boss.,Did the editor hit the scientist?,0
+3,13,temporal,src,The writer that admired the president for ten years spoke about peace and liberty.,Did the president admire the writer?,0
+3,14,locative,orc,The florist that the salesman watched in the kitchen met a child with red hat.,Did the salesman watch the florist?,1
+3,15,locative,src,The guard that signaled the resident from the street sprayed the house with hoses.,Did the resident signal the guard?,0
+3,16,temporal,orc,The detective that the agent phoned during the case suspected the reviewer.,Did the agent phone the detective?,1
+3,17,temporal,src,The manager that visited the supervisor after an hour remembered some inconvenient facts.,Did the supervisor visit the manager?,0
+3,18,locative,orc,The columnist that the lawyer sued in the corporation filed a grievance with the judge.,Did the lawyer sue the columnist?,1
+3,19,locative,src,The bartender that rescued the drunk at the station ate some nachos for dinner.,Did the drunk rescue the bartender?,0
+3,20,temporal,orc,The nurse that the patient observed after the surgery thought about the cause of a headache.,Did the patient observe the nurse?,1
+3,21,temporal,src,The professor that ignored the student during break time continued with his lecture.,Did the student ignore the professor?,0
+3,22,locative,orc,The woman that the children irritated at the auditorium yelled at her husband a lot.,Did the children irritate the woman?,1
+3,23,locative,src,The critic that blamed the artist at the gallery left the place immediately.,Did the artist blame the critic?,0
+3,24,temporal,orc,The singer that the chairman mentioned after the show loved singing old jazz.,Did the chairman mention the singer?,1
