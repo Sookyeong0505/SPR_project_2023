@@ -1,9 +1,17 @@
+// 실험을 위한 메인 코드
+
 PennController.ResetPrefix(null); // Shorten command names (keep this line here))
 
-DebugOff();   // Uncomment this line only when you are 100% done designing your experiment
+// DebugOff(); // 디버그용 창 제거
+// 실험 코드가 완성되었을 때 위의 주석을 제거할 것
+// Uncomment this line only when you are 100% done designing your experiment
 
-var showProgressBar = false;
+var showProgressBar = true; // false
+// 실험 진행도를 보여주는 바
+// true면 생성, false면 없앰
 
+
+// Sequence : 실험의 진행 순서를 정하는 블럭
 // 순서 : 참여동의, 언어능력 확인, 실험 설명, 연습 실험, 본실험, cloze test. 
 Sequence(
         "consent", // 참여동의
@@ -19,6 +27,7 @@ Sequence(
         );
 
 // This is run at the beginning of each trial
+// 실험 시작과 함께 기록이 시작되는 변수를 설정해준다. (결과 엑셀시트에서 확인가능)
 Header(
     // Declare a global Var element "ID" in which we will store the participant's ID
     newVar("ID").global(),
@@ -205,7 +214,9 @@ newTrial("start_test",
         .wait()
     );
     
-////////////  연습실험   ////////////
+/**
+ * 연습 실험
+ */
 
 newTrial("practice1",
         newText("스페이스 바를 누르면서 문장을 읽습니다.")
@@ -400,8 +411,9 @@ newTrial("cloze test",
         )
     );
 
-///////////////////////////////////
-
+/**
+ * 실험 종료 알림
+ */
 newTrial("end",
         newText("수고하셨습니다. 실험이 끝났습니다.")
             .center().print()
